@@ -1,0 +1,254 @@
+[
+    {
+        "state": "Andhra Pradesh",
+        "latitude": 15.9129,
+        "longitude": 79.7400,
+        "total_cases": 1000000,
+        "total_deaths": 7000,
+        "active_cases": 20000,
+        "recovered": 980000
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "latitude": 27.1300,
+        "longitude": 93.6050,
+        "total_cases": 25000,
+        "total_deaths": 100,
+        "active_cases": 500,
+        "recovered": 24400
+    },
+    {
+        "state": "Assam",
+        "latitude": 26.2006,
+        "longitude": 92.9376,
+        "total_cases": 350000,
+        "total_deaths": 4000,
+        "active_cases": 8000,
+        "recovered": 338000
+    },
+    {
+        "state": "Bihar",
+        "latitude": 25.0961,
+        "longitude": 85.3131,
+        "total_cases": 600000,
+        "total_deaths": 8000,
+        "active_cases": 10000,
+        "recovered": 592000
+    },
+    {
+        "state": "Chhattisgarh",
+        "latitude": 21.2787,
+        "longitude": 81.8661,
+        "total_cases": 400000,
+        "total_deaths": 5000,
+        "active_cases": 9000,
+        "recovered": 386000
+    },
+    {
+        "state": "Goa",
+        "latitude": 15.2993,
+        "longitude": 74.1240,
+        "total_cases": 150000,
+        "total_deaths": 2000,
+        "active_cases": 3000,
+        "recovered": 145000
+    },
+    {
+        "state": "Gujarat",
+        "latitude": 22.2587,
+        "longitude": 71.1924,
+        "total_cases": 1200000,
+        "total_deaths": 15000,
+        "active_cases": 25000,
+        "recovered": 1175000
+    },
+    {
+        "state": "Haryana",
+        "latitude": 29.0588,
+        "longitude": 76.0856,
+        "total_cases": 500000,
+        "total_deaths": 7000,
+        "active_cases": 10000,
+        "recovered": 493000
+    },
+    {
+        "state": "Himachal Pradesh",
+        "latitude": 32.0968,
+        "longitude": 77.1855,
+        "total_cases": 100000,
+        "total_deaths": 1500,
+        "active_cases": 2000,
+        "recovered": 98000
+    },
+    {
+        "state": "Jharkhand",
+        "latitude": 23.6100,
+        "longitude": 85.2799,
+        "total_cases": 300000,
+        "total_deaths": 4000,
+        "active_cases": 7000,
+        "recovered": 289000
+    },
+    {
+        "state": "Karnataka",
+        "latitude": 15.3173,
+        "longitude": 75.7139,
+        "total_cases": 2500000,
+        "total_deaths": 40000,
+        "active_cases": 60000,
+        "recovered": 2400000
+    },
+    {
+        "state": "Kerala",
+        "latitude": 10.8505,
+        "longitude": 76.2711,
+        "total_cases": 2000000,
+        "total_deaths": 10000,
+        "active_cases": 35000,
+        "recovered": 1965000
+    },
+    {
+        "state": "Madhya Pradesh",
+        "latitude": 23.4733,
+        "longitude": 77.9470,
+        "total_cases": 700000,
+        "total_deaths": 10000,
+        "active_cases": 15000,
+        "recovered": 675000
+    },
+    {
+        "state": "Maharashtra",
+        "latitude": 19.7515,
+        "longitude": 75.7139,
+        "total_cases": 5000000,
+        "total_deaths": 100000,
+        "active_cases": 150000,
+        "recovered": 4850000
+    },
+    {
+        "state": "Manipur",
+        "latitude": 24.8030,
+        "longitude": 93.9368,
+        "total_cases": 35000,
+        "total_deaths": 400,
+        "active_cases": 1000,
+        "recovered": 34000
+    },
+    {
+        "state": "Meghalaya",
+        "latitude": 25.4670,
+        "longitude": 91.3662,
+        "total_cases": 50000,
+        "total_deaths": 1000,
+        "active_cases": 1500,
+        "recovered": 48500
+    },
+    {
+        "state": "Mizoram",
+        "latitude": 23.1645,
+        "longitude": 92.9376,
+        "total_cases": 20000,
+        "total_deaths": 100,
+        "active_cases": 300,
+        "recovered": 19600
+    },
+    {
+        "state": "Nagaland",
+        "latitude": 26.1584,
+        "longitude": 94.5624,
+        "total_cases": 25000,
+        "total_deaths": 200,
+        "active_cases": 500,
+        "recovered": 24400
+    },
+    {
+        "state": "Odisha",
+        "latitude": 20.9517,
+        "longitude": 85.0985,
+        "total_cases": 1000000,
+        "total_deaths": 10000,
+        "active_cases": 20000,
+        "recovered": 980000
+    },
+    {
+        "state": "Punjab",
+        "latitude": 31.1471,
+        "longitude": 75.3412,
+        "total_cases": 600000,
+        "total_deaths": 8000,
+        "active_cases": 10000,
+        "recovered": 592000
+    },
+    {
+        "state": "Rajasthan",
+        "latitude": 27.0238,
+        "longitude": 74.2179,
+        "total_cases": 1000000,
+        "total_deaths": 15000,
+        "active_cases": 30000,
+        "recovered": 970000
+    },
+    {
+        "state": "Sikkim",
+        "latitude": 27.5330,
+        "longitude": 88.5122,
+        "total_cases": 10000,
+        "total_deaths": 100,
+        "active_cases": 300,
+        "recovered": 9700
+    },
+    {
+        "state": "Tamil Nadu",
+        "latitude": 11.1271,
+        "longitude": 78.6569,
+        "total_cases": 2000000,
+        "total_deaths": 30000,
+        "active_cases": 50000,
+        "recovered": 1950000
+    },
+    {
+        "state": "Telangana",
+        "latitude": 17.1232,
+        "longitude": 79.2085,
+        "total_cases": 1000000,
+        "total_deaths": 5000,
+        "active_cases": 15000,
+        "recovered": 985000
+    },
+    {
+        "state": "Tripura",
+        "latitude": 23.9408,
+        "longitude": 91.9882,
+        "total_cases": 25000,
+        "total_deaths": 500,
+        "active_cases": 800,
+        "recovered": 24100
+    },
+    {
+        "state": "Uttar Pradesh",
+        "latitude": 26.8467,
+        "longitude": 80.9462,
+        "total_cases": 3000000,
+        "total_deaths": 40000,
+        "active_cases": 80000,
+        "recovered": 2900000
+    },
+    {
+        "state": "Uttarakhand",
+        "latitude": 30.0668,
+        "longitude": 79.0193,
+        "total_cases": 200000,
+        "total_deaths": 3000,
+        "active_cases": 5000,
+        "recovered": 192000
+    },
+    {
+        "state": "West Bengal",
+        "latitude": 22.9868,
+        "longitude": 87.8550,
+        "total_cases": 1800000,
+        "total_deaths": 25000,
+        "active_cases": 35000,
+        "recovered": 1700000
+    }
+]
